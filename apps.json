@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Яндекс Музыка",
+    "package_name": "ru.yandex.music",
+    "version": "2024.12.1",
+    "description": "Музыкальный сервис от Яндекса",
+    "apk_file": "ru.yandex.music.apk",
+    "apk_url": "https://github.com/muhammadqodir16/appmarket/releases/download/apps/ru.yandex.music.apk",
+    "size_mb": 45.2,
+    "icon": "/icons/ru.yandex.music.png",
+    "screenshots": []
+  }
+]
